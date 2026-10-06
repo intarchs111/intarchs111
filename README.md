@@ -62,9 +62,9 @@ Designed a three layered governance first decision intelligence platform that se
 
 ---
 
-**[AI Gateway](https://github.com/intarchs111/req-access-public) - Enterprise LLM Integration Architecture**
+**[AI Gateway](https://github.com/intarchs111/ai-gateway) - Enterprise LLM Integration Architecture**
 
-[![ai-gateway](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
+[![ai-gateway](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/ai-gateway)
 
 A **centralized AI Gateway** for integrating **Large Language Models (LLMs)** into enterprise applications that decouples applications from direct LLM provider access. 
 
