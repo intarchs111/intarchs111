@@ -16,9 +16,9 @@ My work revolves around translating business needs into responsible, explainable
 
 ### Featured Projects
 
-**[Enterprise IT Support RAG Assistant](https://github.com/intarchs111/enterprise-it-support-rag)**
+**[Enterprise IT Support RAG Assistant](https://github.com/intarchs111/req-access-public)**
 
-[![enterprise-it-support-rag](https://img.shields.io/badge/GitHub-enterprise--it--support--rag-purple?style=flat&logo=github)](https://github.com/intarchs111/enterprise-it-support-rag)
+[![enterprise-it-support-rag](https://img.shields.io/badge/GitHub-enterprise--it--support--rag-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
 
 **Business Challenge** 
 
@@ -40,9 +40,11 @@ Gives employees immediate access to answers for common IT issues such as VPN, MF
 
 ---
 
-**[Responsible Decision Intelligence (RDI)](https://github.com/intarchs111/rdi-data-ingestion) -  Governance First Decision Advisory Platform**
+**[Responsible Decision Intelligence (RDI)](https://github.com/intarchs111/req-access-public) -  Governance First Decision Advisory Platform**
 
-[![rdi](https://img.shields.io/badge/GitHub-rdi--data--ingestion-purple?style=flat&logo=github)](https://github.com/intarchs111/rdi-data-ingestion)
+[![rdi_v1](https://img.shields.io/badge/GitHub-rdi--data--ingestion-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
+[![rdi_v2](https://img.shields.io/badge/GitHub-rdi--policy--compliance-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
+[![rdi_v3](https://img.shields.io/badge/GitHub-rdi--ai--decision--support-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
 
 **Business Challenge**  
 Enterprise procurement workflows need automation and intelligent guidance, but allowing AI to directly influence policy decisions introduces risks around **accuracy, accountability, explainability, and auditability**.
@@ -60,9 +62,9 @@ Designed a three layered governance first decision intelligence platform that se
 
 ---
 
-**[AI Gateway](https://github.com/intarchs111/ai-gateway) - Enterprise LLM Integration Architecture**
+**[AI Gateway](https://github.com/intarchs111/req-access-public) - Enterprise LLM Integration Architecture**
 
-[![ai-gateway](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/ai-gateway)
+[![ai-gateway](https://img.shields.io/badge/GitHub-ai--gateway-purple?style=flat&logo=github)](https://github.com/intarchs111/req-access-public)
 
 A **centralized AI Gateway** for integrating **Large Language Models (LLMs)** into enterprise applications that decouples applications from direct LLM provider access. 
 
